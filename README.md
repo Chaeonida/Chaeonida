@@ -1,6 +1,6 @@
 ### Welcome To My Githup 👩‍🦰
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20ChaeWon👋&fontSize=70&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=welcome to Chaewon's Github 👋&fontSize=70&fontAlign=50)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaeonida&show_icons=true&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&title_color=85A18D&text_color=fff&locale=kr" width=49.2% />
